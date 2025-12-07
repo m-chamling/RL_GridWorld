@@ -11,8 +11,6 @@ This project is a simple reinforcement learning agent trained using Q-learning i
 
 ## Files
 - `gridworld.py` – main RL code
-- `report.pdf` – assignment report
-- `/screenshots` – training and policy images
 
 ## Running the Agent
 ```bash
